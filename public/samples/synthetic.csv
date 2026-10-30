@@ -1,0 +1,13 @@
+id,text,subreddit,date,synthetic
+synthetic-01,The new library should stay open on weekends for every neighborhood.,demo_town,2026-10-20T09:00:00Z,True
+synthetic-02,The new library should stay open on weekends for every neighborhood!,demo_library,2026-10-20T10:00:00Z,True
+synthetic-03,Weekend library hours would help students and families across the city.,demo_gardens,2026-10-20T11:00:00Z,True
+synthetic-04,Community gardens need reliable water access throughout the summer.,demo_town,2026-10-21T09:00:00Z,True
+synthetic-05,Community gardens need reliable water access throughout the summer months.,demo_library,2026-10-21T10:00:00Z,True
+synthetic-06,We attended the council meeting and asked about cycling infrastructure.,demo_gardens,2026-10-21T11:00:00Z,True
+synthetic-07,The new library should stay open on weekends for every neighborhood.,demo_town,2026-10-22T09:00:00Z,True
+synthetic-08,A local choir is offering free rehearsals next month.,demo_library,2026-10-22T10:00:00Z,True
+synthetic-09,The library published its annual report today.,demo_gardens,2026-10-22T11:00:00Z,True
+synthetic-10,Community gardens need reliable water access throughout the summer.,demo_town,2026-10-23T09:00:00Z,True
+synthetic-11,The match finished with a surprising late goal.,demo_library,2026-10-23T10:00:00Z,True
+synthetic-12,Weekend library hours would help students and families across the city!,demo_gardens,2026-10-23T11:00:00Z,True
